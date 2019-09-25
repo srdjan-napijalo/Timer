@@ -1,7 +1,9 @@
 # Timer
 Set time of activation (or countdown time) then choose color (and delay) and start TimerApp.
 
-App: 
+
+App:
+ 
      jFrame
 
      jButton
@@ -28,8 +30,7 @@ App:
 
 Demonstrated skills:
 
-
-Java 
+    Java 
 
     Swing
 
